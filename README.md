@@ -1,4 +1,4 @@
-Aqui estará o resumo dos repositórios.
+Aqui estarão os resumos dos repositórios.
 
 1 - Formulário sem backend.
 Resumo: É um formulário que usa a biblioteca formsubmit.co para enviar um formulário para o email do usuário sem a necessidade de um backend.
@@ -11,11 +11,17 @@ Fonte:  https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1
 GitHub: https://github.com/diegoluanfs/conventional-commits-pattern
 Deploy: conventional-commits-pattern.vercel.app
 
+3 - Calculator
+Resumo: Uma calculadora simples, que utiliza react no frontend e .net no backend.
+Fonte:  -
+GitHub: https://github.com/diegoluanfs/calculator
+Deploy: -
+
 ---
 
 ### **Nível Iniciante (1-121)**
 
-1. Calculadora simples (soma, subtração, multiplicação, divisão).
+~~1. Calculadora simples (soma, subtração, multiplicação, divisão).~~ [Calculadora](https://github.com/diegoluanfs/calculator)
 2. Conversor de moedas.
 3. Aplicativo de lista de tarefas (To-Do List).
 4. Cronômetro online.
