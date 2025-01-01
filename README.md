@@ -21,7 +21,7 @@ Deploy: -
 
 ### **Nível Iniciante (1-121)**
 
-~~1. Calculadora simples (soma, subtração, multiplicação, divisão).~~ [Calculadora](https://github.com/diegoluanfs/calculator)
+~~1. Calculadora simples (soma, subtração, multiplicação, divisão).~~
 2. Conversor de moedas.
 3. Aplicativo de lista de tarefas (To-Do List).
 4. Cronômetro online.
